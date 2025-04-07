@@ -1,0 +1,216 @@
+
+[
+    {
+
+    "name": "Lindini",
+    "logo_url": "/images/logo55.jpeg",
+    "images_url": [
+        "/images/lindini17.jpeg",
+        "/images/lindini02.jpeg",
+        "/images/lindini03.jpeg",
+        "/images/lindini18.jpeg",
+        "/images/lindini06.jpeg",
+        "/images/lindini05.jpeg",
+        "/images/lindini07.jpeg",
+        "/images/lindini16.jpeg",
+        "/images/lindini14.jpeg",
+        "/images/lindini11.jpeg"
+    ],
+    "gouvernorat": "Tunis",
+    "pays": "Tunisie",
+    "delegation": "Tunis",
+    "activité": "Électricien",
+    "secteur": "Batiment",
+    "description":"LND.SERVICE في خدمتكم\n\n💸💸 أسوامنا مرفقة ونعاونوك بالفكرة والنصيحة مهما كانت الخدمة إلي تحب عليها، أحنا نخدمهالك وبأحسن جودة موجودة.\n\n✅ Installation électricité générale ⚡ 👨‍🔧\n✅ Caméra de surveillance\n✅ Système d'alarme 🚨\n✅ Réparation générale et rénovation 🔧\n✅ Tous les travaux électriques 🔌 ⚡\n✅ Éclairage ⚡\n✅ Entretien\n\nمع فريق محترف في خدمتكم.\n\n**Plant électricité gratuit**",
+    "address": "Rue 4101 N20 EZZOUHOUR, Tunis , Tunisie",
+    "category": ["Gym", "Yoga", "Personal Training"],
+    "etiquette": [
+        { "name": "Cardio Equipment" },
+        { "name": "Weight Training" },
+        { "name": "Group Classes" },
+        { "name": "Sauna" }
+    ]
+},
+{   
+    
+    "latitude":"9.8", 
+    "longitude":"37.2",
+    "horaire" :"Lundi-Vendredi 9h-17h",
+    "socialmedia": [
+    { "name": "Facebook" ,"url":"https://www.facebook.com/profile.php?id=61571253933313"},
+    { "name": "Whatsapp" ,"url":"https://wa.me/+21653270270"},
+    { "name": "X" ,"url":"https://x.com/felblad"},
+    { "name": "Instagram" ,"url":"https://www.instagram.com/felbled.platform/"},
+    { "name": "LinkedIn" ,"url":"https://www.linkedin.com/in/felblad-platform/"},
+    { "name": "Snapchat" ,"url":"https://www.snapchat.com/add/felbled.bigdata?share_id=z-tmpdwDfH0&locale=fr-FR"},
+    { "name": "Tiktok" ,"url":"https://www.tiktok.com/@felbled.platform"},
+    { "name": "Youtube" ,"url":"https://youtube.com/@felbled?si=9-bCbESkIZRAvaj5"}
+    ],
+    "name": "Felbled",
+    
+    "logo_url": "/images/logo_felbled.jpeg",
+    "telephone" : "53270270",
+    "images_url": [
+        "/images/felbled mise en place d'un Intranet à base d'ODOO.jpg",
+        "/images/felblad SEO.jpg",
+        "/images/felblad pack sponsoring par mois.jpg",
+        "/images/felblad pack communication 1 mois.jpg",
+        "/images/felblad Créations Vidéos.jpg",
+        "/images/felblad creation site web statique 5 pages.jpg",
+        "/images/felblad création site web personnaliser.jpg",
+        "/images/felblad création site web e-commerce.jpg",
+        "/images/felblad baniere publicitaire.jpg",
+        "/images/felblad audit de site web.jpg"
+        
+    ],
+    "gouvernorat": "Bizerte",
+    "pays": "Tunisie",
+    "delegation": "Bizerte Nord",
+    "activité": "Boite de développement",
+    "secteur": "",
+    "description":"",
+    "address": "14 Rue tripoli 7000 , Bizerte , Tunisie",
+    "category": [],
+    "etiquette": [
+        { "name":  "informatique" },
+        { "name": "boite de devloppement" }]
+       
+},
+{
+"horaire" :"",
+"socialmedia": [
+       { "name": "Facebook" ,"url":"/"},
+        { "name": "Whatsapp" ,"url":"/"},
+        { "name": "X" ,"url":"/"},
+        { "name": "Instagram" ,"url":"/"},
+        { "name": "LinkedIn" ,"url":"/"},
+        { "name": "Snapchat" ,"url":"/"},
+        { "name": "Tiktok" ,"url":"/"},
+        { "name": "Youtube" ,"url":"/"}
+    ],
+    "name": "Ahmed",
+    "logo_url": "",
+    "telephone" :"26423856",
+    "images_url": [
+        ""
+    ],
+    "gouvernorat": "Bizerte",
+    "pays": "Tunisie",
+    "delegation": "Bizerte Nord",
+    "activité": "Entraîneur",
+    "secteur": "SPORT",
+    "description":"",
+    "address": "",
+    "category": [""],
+    "etiquette": [
+        { "name": "Cardio Equipment" }
+       
+    ]
+},
+{
+        "horaire" :"8h jusqu'à 20h \n Toute la semaine 7/7",
+        "socialmedia": [
+          
+              
+              
+            ],
+            "name": "Quincaillerie Arbi",
+            "logo_url": "/images/quincaillerie7.jpeg",
+            "telephone" :"92280770/98807006",
+            "images_url": [
+                "/images/quincaillerie1.jpeg",
+                "/images/quincaillerie2.jpeg",
+                "/images/quincaillerie3.jpeg",
+                "/images/quincaillerie4.jpeg",
+                "/images/quincaillerie5.jpeg",
+                "/images/quincaillerie6.jpeg",
+                "/images/quincaillerie8.jpeg"
+                
+            ],
+            "gouvernorat": "Bizerte",
+            "pays": "Tunisie",
+            "delegation": "Bizerte Nord",
+            "activité": "Quincaillerie",
+            "secteur": "ÉLECTRONIQUE",
+            "description":"Depuis 2011 \n Vente matériel de quincaillerie général \n Peinture, produits électrique, produit agricoles matériel plomberie",
+            "address": "",
+            "category": [""],
+            "etiquette": [
+                { "name": "Quincaillerie" }
+               
+            ]
+        }
+        ,{
+            "horaire" :"",
+            "socialmedia": [
+              
+                   
+                  
+                ],
+                "name": "Lotfi Hammas Beb Rmal",
+                "logo_url": "/images/kiosque1.jpeg",
+                "telephone" :"25031282",
+                "images_url": [
+                    "/images/kiosque10.jpeg",
+                    "/images/kiosque2.jpeg",
+                    "/images/kiosque3.jpeg",
+                    "/images/kiosque4.jpeg",
+                    "/images/kiosque5.jpeg",
+                    "/images/kiosque6.jpeg",
+                    "/images/kiosque7.jpeg",
+                     "/images/kiosque8.jpeg",
+                      "/images/kiosque9.jpeg"
+                    
+                ],
+                "gouvernorat": "Bizerte",
+                "pays": "Tunisie",
+                "delegation": "Bizerte Nord",
+                "activité": "Drug store",
+                "secteur": "MARCHÉ",
+                "description":"Drug store Beb Rmal \n Spécialité fruits secs, Tabac chocolats, importé, Yaourt. \n Surprise pour enfant et glace",
+                "address": "",
+                "category": [""],
+                "etiquette": [
+                    { "name": "kiosque" }
+                   
+                ]
+            }
+            ,{
+                "horaire" :"8h jusqu'à 22h \n Toute la semaine 7/7",
+                "socialmedia": [
+                  
+                       
+                      
+                    ],
+                    "name": "Mohamed Ali El May",
+                    "logo_url": "/images/legume1.jpeg",
+                    "telephone" :"55577102",
+                    "images_url": [
+                       "/images/legume2.jpeg",
+                       "/images/legume3.jpeg",
+                        "/images/legume4.jpeg",
+                        "/images/legume5.jpeg",
+                        "/images/legume6.jpeg",
+                        "/images/legume7.jpeg",
+                       "/images/legume8.jpeg"
+                        
+                        
+                    ],
+                    "gouvernorat": "Bizerte",
+                    "pays": "Tunisie",
+                    "delegation": "Bizerte Nord",
+                    "activité": "Vendeur fruits et légumes",
+                    "secteur": "MARCHÉ",
+                    "description":"Vente de légumes et fruits frais. \n Depuis 2009 à Beb Rmal avec des prix reasonable et accueillant.",
+                    "address": "",
+                    "category": [""],
+                    "etiquette": [
+                        { "name": "legume" }
+                       
+                    ]
+                }
+        
+        ]
+
+
+
